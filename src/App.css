@@ -3,3 +3,32 @@
   padding: 0;
   box-sizing: 0;
 }
+
+.nav-separator {
+  border-bottom: solid 2px black;
+}
+
+.page-title {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.center-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.item-container {
+  display: grid;
+  background-color: lightgreen;
+  margin: 1rem 0;
+  padding: 2rem 0;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: 10px;
+  justify-items: center;
+  border: solid 2px black;
+  border-left: none;
+  border-right: none;
+}
