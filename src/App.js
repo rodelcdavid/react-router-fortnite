@@ -1,8 +1,20 @@
 import './App.css';
+import Nav from './components/Nav'
+import Home from './components/Home'
+import About from './components/About'
+import Shop from './components/Shop'
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <Router>
+      <Nav/>
+        <Switch>
+            <Route path='/' exact component={Home}></Route>
+            <Route path='/About' exact component={About}></Route>
+            <Route path='/Shop' exact component={Shop}></Route>
+        </Switch>
+    </Router>
   );
 }
 
