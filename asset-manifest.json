@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-router-fornite/static/css/main.3667f0e6.chunk.css",
-    "main.js": "/react-router-fornite/static/js/main.75276d0a.chunk.js",
-    "main.js.map": "/react-router-fornite/static/js/main.75276d0a.chunk.js.map",
-    "runtime-main.js": "/react-router-fornite/static/js/runtime-main.d324822e.js",
-    "runtime-main.js.map": "/react-router-fornite/static/js/runtime-main.d324822e.js.map",
-    "static/js/2.b39648da.chunk.js": "/react-router-fornite/static/js/2.b39648da.chunk.js",
-    "static/js/2.b39648da.chunk.js.map": "/react-router-fornite/static/js/2.b39648da.chunk.js.map",
-    "index.html": "/react-router-fornite/index.html",
-    "static/css/main.3667f0e6.chunk.css.map": "/react-router-fornite/static/css/main.3667f0e6.chunk.css.map",
-    "static/js/2.b39648da.chunk.js.LICENSE.txt": "/react-router-fornite/static/js/2.b39648da.chunk.js.LICENSE.txt",
-    "static/media/fidget.29181c59.gif": "/react-router-fornite/static/media/fidget.29181c59.gif"
+    "main.css": "/react-router-fortnite/static/css/main.3667f0e6.chunk.css",
+    "main.js": "/react-router-fortnite/static/js/main.75276d0a.chunk.js",
+    "main.js.map": "/react-router-fortnite/static/js/main.75276d0a.chunk.js.map",
+    "runtime-main.js": "/react-router-fortnite/static/js/runtime-main.d36f1a0d.js",
+    "runtime-main.js.map": "/react-router-fortnite/static/js/runtime-main.d36f1a0d.js.map",
+    "static/js/2.b39648da.chunk.js": "/react-router-fortnite/static/js/2.b39648da.chunk.js",
+    "static/js/2.b39648da.chunk.js.map": "/react-router-fortnite/static/js/2.b39648da.chunk.js.map",
+    "index.html": "/react-router-fortnite/index.html",
+    "static/css/main.3667f0e6.chunk.css.map": "/react-router-fortnite/static/css/main.3667f0e6.chunk.css.map",
+    "static/js/2.b39648da.chunk.js.LICENSE.txt": "/react-router-fortnite/static/js/2.b39648da.chunk.js.LICENSE.txt",
+    "static/media/fidget.29181c59.gif": "/react-router-fortnite/static/media/fidget.29181c59.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d324822e.js",
+    "static/js/runtime-main.d36f1a0d.js",
     "static/js/2.b39648da.chunk.js",
     "static/css/main.3667f0e6.chunk.css",
     "static/js/main.75276d0a.chunk.js"
