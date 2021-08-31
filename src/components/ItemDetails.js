@@ -11,9 +11,10 @@ const ItemDetails = ({match}) => {
         images: {}
     })
 
+
     useEffect(() => {
-        getData();
-    },[]);
+        getData(); // eslint-disable-next-line
+    },[]); 
 
     const getData = () => {
         fetch(`https://fortniteapi.io/v2/items/get?id=${match.params.id}`, {

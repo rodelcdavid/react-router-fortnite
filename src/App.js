@@ -8,7 +8,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/react-router-fortnite'>
       <Nav/>
       <div className='nav-separator'></div>
 
