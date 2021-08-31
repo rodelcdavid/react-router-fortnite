@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-router-fortnite/static/css/main.3667f0e6.chunk.css",
-    "main.js": "/react-router-fortnite/static/js/main.75276d0a.chunk.js",
-    "main.js.map": "/react-router-fortnite/static/js/main.75276d0a.chunk.js.map",
+    "main.js": "/react-router-fortnite/static/js/main.f161f7e7.chunk.js",
+    "main.js.map": "/react-router-fortnite/static/js/main.f161f7e7.chunk.js.map",
     "runtime-main.js": "/react-router-fortnite/static/js/runtime-main.d36f1a0d.js",
     "runtime-main.js.map": "/react-router-fortnite/static/js/runtime-main.d36f1a0d.js.map",
     "static/js/2.b39648da.chunk.js": "/react-router-fortnite/static/js/2.b39648da.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d36f1a0d.js",
     "static/js/2.b39648da.chunk.js",
     "static/css/main.3667f0e6.chunk.css",
-    "static/js/main.75276d0a.chunk.js"
+    "static/js/main.f161f7e7.chunk.js"
   ]
 }
