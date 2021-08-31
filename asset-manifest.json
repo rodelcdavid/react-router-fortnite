@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-router-fornite/static/css/main.3667f0e6.chunk.css",
+    "main.js": "/react-router-fornite/static/js/main.75276d0a.chunk.js",
+    "main.js.map": "/react-router-fornite/static/js/main.75276d0a.chunk.js.map",
+    "runtime-main.js": "/react-router-fornite/static/js/runtime-main.d324822e.js",
+    "runtime-main.js.map": "/react-router-fornite/static/js/runtime-main.d324822e.js.map",
+    "static/js/2.b39648da.chunk.js": "/react-router-fornite/static/js/2.b39648da.chunk.js",
+    "static/js/2.b39648da.chunk.js.map": "/react-router-fornite/static/js/2.b39648da.chunk.js.map",
+    "index.html": "/react-router-fornite/index.html",
+    "static/css/main.3667f0e6.chunk.css.map": "/react-router-fornite/static/css/main.3667f0e6.chunk.css.map",
+    "static/js/2.b39648da.chunk.js.LICENSE.txt": "/react-router-fornite/static/js/2.b39648da.chunk.js.LICENSE.txt",
+    "static/media/fidget.29181c59.gif": "/react-router-fornite/static/media/fidget.29181c59.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d324822e.js",
+    "static/js/2.b39648da.chunk.js",
+    "static/css/main.3667f0e6.chunk.css",
+    "static/js/main.75276d0a.chunk.js"
+  ]
+}
