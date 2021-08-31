@@ -11,8 +11,8 @@ function App() {
       <Nav/>
         <Switch>
             <Route path='/' exact component={Home}></Route>
-            <Route path='/About' exact component={About}></Route>
-            <Route path='/Shop' exact component={Shop}></Route>
+            <Route path='/About' component={About}></Route>
+            <Route path='/Shop' component={Shop}></Route>
         </Switch>
     </Router>
   );
